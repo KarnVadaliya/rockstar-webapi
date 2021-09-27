@@ -1,5 +1,9 @@
 #### rockstar-webapi
 
+#### Go to rockstar-webapi folder
+```
+cd  rockstar-webapi/rockstar-webapi/
+```
 #### To build the project
 ```
 dotnet build 
